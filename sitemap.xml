@@ -2,17 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bitbrief.click/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bitbrief.click/about</loc>
-    <lastmod>2025-09-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bitbrief.click/contact</loc>
-    <lastmod>2025-09-30</lastmod>
-    <priority>0.8</priority>
+    <loc>https://bitbrief.click/contact-us/</loc>
   </url>
 </urlset>
